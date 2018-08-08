@@ -295,12 +295,100 @@ public class Capitulo2 {
                     // Formatação de Data e Hora
                     java.util.Calendar fundacaoK19 = new java.util.GregorianCalendar(2010, 7, 27, 10, 32, 15) ;
                     
-                    java . text . SimpleDateFormat sdf =
-                    new java . text . SimpleDateFormat ("dd/MM/ yyyy HH:mm:ss");
+                    java.text.SimpleDateFormat sdf =
+                    new java.text.SimpleDateFormat ("dd/MM/yyyy HH:mm:ss");
                     
-                    String fundacaoK19Formatada = sdf . format ( fundacaoK19 . getTime ());
-                    Código Java 3.40: Aplicando o formado "dia/mês/ano hora:minutos:segundos”
+                    String fundacaoK19Formatada = sdf.format(fundacaoK19.getTime());
             
+            /*
+            
+                ----- QUESTÕES -----
+
+                1º Qual é a função das variáveis?
+                a) Exibir asmensagens dos programas.
+                b) Gerar números aleatórios.
+                c) Formatar números com casas decimais.
+                d) Armazenar dados.
+                e) Realizar cálculos matemáticos.
+
+                2º O que ocorre quando uma variável não inicializada é utilizada?
+                a) Umerro de compilação.
+                b) Umerro de execução.
+                c) A variável é inicializada com 0.
+                d) A variável é inicializada com umvalor aleatório.
+                e) A variável é inicializada com null.
+
+                3º Qual alternativa apresenta os tipos básicos do Java para números reais?
+                a) byte e double
+                b) int e float
+                c) float e double
+                d) real e long
+                e) single e double
+
+                4º Considere as linguagens Java e C#, qual alternativa declara corretamente um caractere literal?
+                a) ’K’
+                b) ’KK’
+                c) "K"
+                d) "KK"
+                e) K
+                f) KK
+
+                5º No Java e no C#, quais palavras representamos valores literais booleanos?
+                a) verdadeiro e falso
+                b) True e False
+                c) True e false
+                d) true ou verdadeiro e false ou falso
+                e) true e false
+
+                6º Em Java, quais são as formas de definir os valores literais numéricos inteiros?
+                a) decimal e hexadecimal
+                b) binário e decimal
+                c) octal e decimal
+                d) binário, decimal e hexadecimal
+                e) binário, octal, decimal e hexadecimal
+
+                7º Considere as linguagens Java e C#, como são definidas as strings?
+                a) Dentro de aspas simples.
+                b) Dentro de aspas duplas.
+                c) Dentro de aspas simples ou aspas duplas.
+
+                8º Qual afirmação sobre casting está correta?
+                a) As linguagens Java e C# não permitem operações de casting.
+                b) Operações de casting são utilizadas para copiar valores entre variáveis do mesmo tipo.
+                c) Operações de casting são perigosas pois podem gerar valores indesejados.
+                d) Nas linguagens Java e C#, as operações de casting são utilizadas para transformar strings em
+                números.
+                e) Nas linguagens Java e C#, as operações de casting são utilizadas para transformar números em
+                strings.    
+
+                9º Qual nome de variável segue a convenção de nomenclatura do Java e do C#?
+                a) idadeDoMarcelo
+                b) idadedomarcelo
+                c) idade_do_marcelo
+                d) idade-do-marcelo
+                e) idade do marcelo
+
+                10º Qual nome de variável segue as regras de nomeclatura do Java e do C#?
+                a) 90pesoMinimoDoMarcelo
+                b) int
+                c) pesoDoMarceloEstaAcimaDe90
+                d) peso.do.marcelo
+                e) peso do marcelo
+
+                ----- GABARITO -----
+
+                1º D
+                2º E
+                3º C
+                4º A
+                5º E
+                6º E
+                7º B
+                8º C
+                9º A
+                10º C
+
+            */
 
     }
     
