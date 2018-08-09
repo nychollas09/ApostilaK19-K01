@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Modulo3;
+package Modulo4;
 
 import java.math.BigDecimal;
 import java.math.BigInteger;
@@ -14,7 +14,7 @@ import java.util.GregorianCalendar;
  *
  * @author Nichollas Falcão
  */
-public class Capitulo3 {
+public class Capitulo4 {
     
     public static void main(String[]args){
     
@@ -437,17 +437,17 @@ public class Capitulo3 {
 
                     ----- GABARITO -----
 
-                    1º 
-                    2º 
-                    3º 
-                    4º 
-                    5º 
-                    6º 
-                    7º 
-                    8º 
-                    9º 
-                    10º 
-                    11º 
+                    1º D
+                    2º C
+                    3º E
+                    4º B
+                    5º A
+                    6º E
+                    7º D
+                    8º B
+                    9º E
+                    10º C
+                    11º A
 
                */ 
 
